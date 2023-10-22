@@ -18,7 +18,7 @@ export default function Home(){
             </div>
             <div className="container mt-4">
                 <div className="row">
-                    <div className="col-md-3">
+                    <div className="col-md-3 mt-4">
                         <div className="card">
                             <div className="card-body">
                                 <img className="img-fluid" src="/MMIST.jpg" alt="" />
