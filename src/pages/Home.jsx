@@ -21,34 +21,34 @@ export default function Home(){
                     <div className="col-md-3">
                         <div className="card">
                             <div className="card-body">
-                                <img className="img-fluid" src="public/MMIST.jpg" alt="" />
+                                <img className="img-fluid" src="/MMIST.jpg" alt="" />
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">Lorem ipsum dolor sit amet.</p>
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-3 mt-4">
                         <div className="card">
                             <div className="card-body">
-                                <img className="img-fluid" src="public/MMIST.jpg" alt="" />
+                                <img className="img-fluid" src="/MMIST.jpg" alt="" />
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">Lorem ipsum dolor sit amet.</p>
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-3 mt-4">
                         <div className="card">
                             <div className="card-body">
-                                <img className="img-fluid" src="public/MMIST.jpg" alt="" />
+                                <img className="img-fluid" src="/MMIST.jpg" alt="" />
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">Lorem ipsum dolor sit amet.</p>
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-3 mt-4">
                         <div className="card">
                             <div className="card-body">
-                                <img className="img-fluid" src="public/MMIST.jpg" alt="" />
+                                <img className="img-fluid" src="/MMIST.jpg" alt="" />
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">Lorem ipsum dolor sit amet.</p>
                             </div>
